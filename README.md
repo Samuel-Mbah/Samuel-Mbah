@@ -1,12 +1,11 @@
-### Hi there 👋
 
-**Samuel-Mbah/Samuel-Mbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[! [MasterHead] (https://www.bing.com/images/search?view=detailV2&ccid=ie3WDn88&id=AAE2A98CBDF923A5770FA30DFE03C1D0A107262E&thid=OIP.ie3WDn88eZI6ZvbegW6ocgHaEK&mediaurl=https%3A%2F%2Fnanonets.com%2Fblog%2Fcontent%2Fimages%2F2019%2F12%2FBlog-Model2.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.89edd60e7f3c79923a66f6de816ea872%3Frik%3DLiYHodDBA%252f4Now%26pid%3DImgRaw%26r%3D0&exph=768&expw=1366&q=deep+learning+animated+images&simid=608021972148974174&form=IRPRST&ck=3D0C62D9744D553289B2C8AB2A3542BB&selectedindex=6&vt=0&sim=11)
+
+[![MasterHead] (https://nanonets.com/blog/content/images/2019/12/Blog-Model2.gif)
 
 <h1 align="center">Hi 👋, I'm Samuel Winbono-Mpaaba Mba</h1>
 <h3 align="center">Passionate about computational neuroscience, robotics, and AI, my research interests are rooted in dynamical systems, sensorimotor circuits, and machine learning's role in neuroscience. With a fervour for medical device development, I aspire to create open-source applications for diagnosing and treating neurological disorders. My overarching goal is to pioneer epilepsy and neurological disorder treatments. Eager to contribute computational approaches to intricate neuroscience challenges, I'm open to research opportunities in this realm.</h3>
 
-<img align = "right" alt= "coding" width = "400" src= "https://www.bing.com/images/search?view=detailV2&ccid=XpdVmHbf&id=0C240534275480F52502267A8EAF405EE0A19810&thid=OIP.XpdVmHbfJsDzZ_GqmOEIWgHaFU&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fp4NLw3I4U0idi%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5e97559876df26c0f367f1aa98e1085a%3frik%3dEJih4F5Ar456Jg%26pid%3dImgRaw%26r%3d0&exph=488&expw=680&q=Programmer+Animated+GIF&simid=608030600736419505&FORM=IRPRST&ck=C08966D79792F869C0E39B3EC33AE966&selectedIndex=1&ajaxhist=0&ajaxserp=0"
+<img align = "right" alt= "coding" width = "400" src= "https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-mbah&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-mbah" /> </p>
 
