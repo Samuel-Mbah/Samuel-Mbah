@@ -1,15 +1,44 @@
 ### Hi there 👋
 
 **Samuel-Mbah/Samuel-Mbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[! [MasterHead] (https://www.bing.com/images/search?view=detailV2&ccid=ie3WDn88&id=AAE2A98CBDF923A5770FA30DFE03C1D0A107262E&thid=OIP.ie3WDn88eZI6ZvbegW6ocgHaEK&mediaurl=https%3A%2F%2Fnanonets.com%2Fblog%2Fcontent%2Fimages%2F2019%2F12%2FBlog-Model2.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.89edd60e7f3c79923a66f6de816ea872%3Frik%3DLiYHodDBA%252f4Now%26pid%3DImgRaw%26r%3D0&exph=768&expw=1366&q=deep+learning+animated+images&simid=608021972148974174&form=IRPRST&ck=3D0C62D9744D553289B2C8AB2A3542BB&selectedindex=6&vt=0&sim=11)
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Samuel Winbono-Mpaaba Mba</h1>
+<h3 align="center">Passionate about computational neuroscience, robotics, and AI, my research interests are rooted in dynamical systems, sensorimotor circuits, and machine learning's role in neuroscience. With a fervour for medical device development, I aspire to create open-source applications for diagnosing and treating neurological disorders. My overarching goal is to pioneer epilepsy and neurological disorder treatments. Eager to contribute computational approaches to intricate neuroscience challenges, I'm open to research opportunities in this realm.</h3>
 
-- 🔭 I’m currently working on an inventory management application
-- 🌱 I’m currently learning neural signal processing
-- 👯 I’m looking to collaborate on projects that will utilise advanced technologies and computational models to solve complex problems in neuroscience and its associated disorders.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about One Piece
-- 📫 How to reach me: smwmbah@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've worked on projects without uploading them to GitHub😄 
--->
+<img align = "right" alt= "coding" width = "400" src= "https://www.bing.com/images/search?view=detailV2&ccid=XpdVmHbf&id=0C240534275480F52502267A8EAF405EE0A19810&thid=OIP.XpdVmHbfJsDzZ_GqmOEIWgHaFU&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fp4NLw3I4U0idi%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5e97559876df26c0f367f1aa98e1085a%3frik%3dEJih4F5Ar456Jg%26pid%3dImgRaw%26r%3d0&exph=488&expw=680&q=Programmer+Animated+GIF&simid=608030600736419505&FORM=IRPRST&ck=C08966D79792F869C0E39B3EC33AE966&selectedIndex=1&ajaxhist=0&ajaxserp=0"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-mbah&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-mbah" /> </p>
+
+<p align="left"> <a href="https://twitter.com/_mpaaba" target="blank"><img src="https://img.shields.io/twitter/follow/_mpaaba?logo=twitter&style=for-the-badge" alt="_mpaaba" /></a> </p>
+
+- 🔭 I’m currently working on [Brain Tumour Detection Project](https://github.com/Samuel-Mbah/Brain-Tumour-Detection.git)
+
+- 🌱 I’m currently learning **Complete Neural Signal Processing course on Udemy, Bonsai reactive visual software, Machine learning**
+
+- 👯 I’m looking to collaborate on **that will utilise advanced technologies and computational models to solve complex problems in neuroscience and its associated disorders.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Samuel-Mbah](https://github.com/Samuel-Mbah)
+
+- 💬 Ask me about **Anime**
+
+- 📫 How to reach me **smwmbah@gmail.com**
+
+- 📄 Know about my experiences [Coming Soon!](Coming Soon!)
+
+- ⚡ Fun fact **I've worked on projects without uploading them to GitHub😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_mpaaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mpaaba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-mba-b54514181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-mba-b54514181" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mbah&show_icons=true&locale=en&layout=compact" alt="samuel-mbah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-mbah&show_icons=true&locale=en" alt="samuel-mbah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-mbah&" alt="samuel-mbah" /></p>
