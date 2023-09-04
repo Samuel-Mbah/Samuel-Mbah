@@ -1,7 +1,4 @@
-
-
-[![MasterHead] (https://nanonets.com/blog/content/images/2019/12/Blog-Model2.gif)
-
+![MasterHead](https://nanonets.com/blog/content/images/2019/12/Blog-Model2.gif)
 <h1 align="center">Hi 👋, I'm Samuel Winbono-Mpaaba Mba</h1>
 <h3 align="center">Passionate about computational neuroscience, robotics, and AI, my research interests are rooted in dynamical systems, sensorimotor circuits, and machine learning's role in neuroscience. With a fervour for medical device development, I aspire to create open-source applications for diagnosing and treating neurological disorders. My overarching goal is to pioneer epilepsy and neurological disorder treatments. Eager to contribute computational approaches to intricate neuroscience challenges, I'm open to research opportunities in this realm.</h3>
 
